@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "A vuejs plugin that acts as a wrapper for nanobar.",
   "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "types": "src/types/index.d.ts",
   "scripts": {
-    "build": "tsc && cp -r src/types dist/types"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
