@@ -1,5 +1,5 @@
 import VueRouter from 'vue-router'
 
-export interface PluginOptions {
+export default interface PluginOptions {
     router: VueRouter
 }
