@@ -1,6 +1,6 @@
 {
   "name": "@the_code_genin/vue-nanobar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A vuejs plugin that acts as a wrapper for nanobar.",
   "main": "dist/index.js",
   "types": "src/types/index.d.ts",
