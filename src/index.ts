@@ -1,5 +1,5 @@
 import NanoBar from 'nanobar'
-import PluginOptions from './plugin-options'
+import PluginOptions from './lib/plugin-options'
 import { VueConstructor } from 'vue/types/umd'
 
 
