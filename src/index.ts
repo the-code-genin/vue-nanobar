@@ -1,6 +1,6 @@
 import NanoBar from 'nanobar'
 import { VueConstructor } from 'vue/types/umd'
-import { PluginOptions } from './types/common'
+import { PluginOptions } from './types'
 
 
 class Plugin {
@@ -18,5 +18,5 @@ class Plugin {
     }
 }
 
-export * from './types/common'
+export * from './types'
 export default Plugin
