@@ -1,0 +1,30 @@
+{
+  "name": "@the_code_genin/vue-nanobar",
+  "version": "1.0.0",
+  "description": "A vuejs plugin that acts as a wrapper for nanobar.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-code-genin/vue-nanobar.git"
+  },
+  "keywords": [
+    "nanobar",
+    "vuejs",
+    "vue-plugin"
+  ],
+  "author": "Mohammed Adekunle <adekunle3317@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/the-code-genin/vue-nanobar/issues"
+  },
+  "homepage": "https://github.com/the-code-genin/vue-nanobar#readme",
+  "dependencies": {
+    "nanobar": "^0.4.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
